@@ -1,0 +1,81 @@
+/*
+Json user data
+User data:
+ {
+  "includeInGlobalAddressList": true,
+  "emails": [
+    {
+      "address": "michael.persaud@xxxxxx.ca",
+      "primary": true
+    },
+    {
+      "address": "michael.persaud@xxxxxx.ca.test-google-a.com"
+    },
+    {
+      "address": "michael.persaud@xxxxxx.ca"
+    },
+    {
+      "address": "michael.persaud@xxxxxx.ca.test-google-a.com"
+    }
+  ],
+  "primaryEmail": "michael.persaud@xxxxxx.ca",
+  "recoveryPhone": "+15555555501",
+  "aliases": [
+    "michael.persaud@xxxxxx.ca"
+  ],
+  "isDelegatedAdmin": false,
+  "locations": [
+    {
+      "area": "desk",
+      "floorName": "high",
+      "buildingId": "xxxxxx-1",
+      "type": "desk"
+    }
+  ],
+  "isEnforcedIn2Sv": true,
+  "thumbnailPhotoEtag": "\"kpmjWQmbeslvpzX9Utj<cutsection>EReX0JTV2AAzWcY/<cutsection>\"",
+  "id": "1127<cutsection>160",
+  "ipWhitelisted": false,
+  "organizations": [
+    {
+      "customType": "",
+      "title": "MIS",
+      "primary": true,
+      "department": "IT"
+    },
+    {
+      "title": "Manager of ITS",
+      "customType": ""
+    }
+  ],
+  "isAdmin": true,
+  "kind": "admin#directory#user",
+  "phones": [
+    {
+      "type": "mobile",
+      "value": "555-555-5551"
+    }
+  ],
+  "changePasswordAtNextLogin": false,
+  "isMailboxSetup": true,
+  "recoveryEmail": "michael.persaud@xxxxxxx.com",
+  "nonEditableAliases": [
+    "michael.persaud@xxxxxx.ca.test-google-a.com",
+    "michael.persaud@xxxxxx.ca.test-google-a.com"
+  ],
+  "archived": false,
+  "creationTime": "2017-02-22T16:50:46.000Z",
+  "suspended": false,
+  "agreedToTerms": true,
+  "etag": "\"kpmjWQmbeslvpzX9Ut<cutsection>AzWcY/<cut>\"",
+  "lastLoginTime": "2020-05-01T14:27:34.000Z",
+  "isEnrolledIn2Sv": true,
+  "name": {
+    "givenName": "Michael",
+    "familyName": "Persaud",
+    "fullName": "Michael Persaud"
+  },
+  "customerId": "YYYYYYY",
+  "orgUnitPath": "/",
+  "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAI<cutsection>"
+}
